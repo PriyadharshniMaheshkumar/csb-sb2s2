@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/css/main.2317225f.chunk.css",
+    "main.js": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/js/main.d15dbe23.chunk.js",
+    "main.js.map": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/js/main.d15dbe23.chunk.js.map",
+    "runtime-main.js": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/js/runtime-main.f9acaa74.js",
+    "runtime-main.js.map": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/js/runtime-main.f9acaa74.js.map",
+    "static/js/2.cfc26b09.chunk.js": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/js/2.cfc26b09.chunk.js",
+    "static/js/2.cfc26b09.chunk.js.map": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/js/2.cfc26b09.chunk.js.map",
+    "index.html": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/index.html",
+    "static/css/main.2317225f.chunk.css.map": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/css/main.2317225f.chunk.css.map",
+    "static/js/2.cfc26b09.chunk.js.LICENSE.txt": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/js/2.cfc26b09.chunk.js.LICENSE.txt",
+    "static/media/gallery.d537d71b.jpeg": "https://priyadharshnimaheshkumar.github.io/csb-sb2s2/static/media/gallery.d537d71b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9acaa74.js",
+    "static/js/2.cfc26b09.chunk.js",
+    "static/css/main.2317225f.chunk.css",
+    "static/js/main.d15dbe23.chunk.js"
+  ]
+}
